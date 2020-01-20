@@ -74,7 +74,7 @@ wireframe與flow在與客戶溝通的時間，可以稍微進行製作mockup。
 
   ![repo-settings-image](images/appstar_07.png)
 
-  (1) Andorid一個元件輸出5個檔案，程式有供一個「rename.command」執行檔，請將執行檔和元件放在同一層，點選之後便能快速將元件分類資料夾！
+  (1) Andorid一個元件輸出5個檔案，程式有供一個「[rename.command](rename.command)」執行檔，請將執行檔和元件放在同一層，點選之後便能快速將元件分類資料夾！
 
   (2) Andorid元件命名若是要使用符號，建議使用「底線 _ 」，不要使用「橫線 - 」(Android系統會有問題的樣子)；因為會同時製作兩個系統，建議乾脆就都用底線，兩邊製作起來也方便～。
 
